@@ -1,0 +1,133 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/modelsim_proj
+vControl
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1614711337
+!i10b 1
+!s100 ozkVDLmhe;7F^dL?RJ9X90
+IUI@VQ_@VjTV6fR?<QM4cX2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Control_sv_unit
+S1
+Z2 dC:/Users/emil1/Documents/GitHub/Crossbar_implementation/ModelSim_project
+w1614709322
+8C:/quartus_proj/ModelSim/Crossbar_ModelSim/Control.sv
+FC:/quartus_proj/ModelSim/Crossbar_ModelSim/Control.sv
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1614711337.000000
+!s107 C:/quartus_proj/ModelSim/Crossbar_ModelSim/Control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/quartus_proj/ModelSim/Crossbar_ModelSim/Control.sv|
+!i113 1
+Z4 o-work work -sv
+Z5 tCvgOpt 0
+n@control
+vMaster
+R0
+Z6 !s110 1614711336
+!i10b 1
+!s100 V]J^ART0;MCJIg7_J0XJA2
+Ic;momA5_JWZjJN0][TMj02
+R1
+!s105 Master_sv_unit
+S1
+R2
+w1614625643
+8C:/quartus_proj/ModelSim/Crossbar_ModelSim/Master.sv
+FC:/quartus_proj/ModelSim/Crossbar_ModelSim/Master.sv
+L0 5
+R3
+r1
+!s85 0
+31
+Z7 !s108 1614711336.000000
+!s107 C:/quartus_proj/ModelSim/Crossbar_ModelSim/Master.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/quartus_proj/ModelSim/Crossbar_ModelSim/Master.sv|
+!i113 1
+R4
+R5
+n@master
+vSlave
+R0
+R6
+!i10b 1
+!s100 zz]S_VJ?GYiP2>?k37:AN2
+IAf[2dB9SCCbAEfVe__5Q^1
+R1
+!s105 Slave_sv_unit
+S1
+R2
+w1614625587
+8C:/quartus_proj/ModelSim/Crossbar_ModelSim/Slave.sv
+FC:/quartus_proj/ModelSim/Crossbar_ModelSim/Slave.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/quartus_proj/ModelSim/Crossbar_ModelSim/Slave.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/quartus_proj/ModelSim/Crossbar_ModelSim/Slave.sv|
+!i113 1
+R4
+R5
+n@slave
+vtb_top_level
+R0
+R6
+!i10b 1
+!s100 Ic@MT4MSQYBP@jI>_=Pii3
+IJ]g8]i>]Ij9K7B@VM;:4:2
+R1
+!s105 tb_top_level_sv_unit
+S1
+R2
+w1614628620
+8C:/quartus_proj/ModelSim/Crossbar_ModelSim/tb_top_level.sv
+FC:/quartus_proj/ModelSim/Crossbar_ModelSim/tb_top_level.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/quartus_proj/ModelSim/Crossbar_ModelSim/tb_top_level.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/quartus_proj/ModelSim/Crossbar_ModelSim/tb_top_level.sv|
+!i113 1
+R4
+R5
+vtop_level
+R0
+R6
+!i10b 1
+!s100 lC1K9j`O@`Afie7LGBj?W2
+I6E4:TR@lY>8`mSDR2S[:42
+R1
+!s105 top_level_sv_unit
+S1
+R2
+w1614624242
+8C:/quartus_proj/ModelSim/Crossbar_ModelSim/top_level.sv
+FC:/quartus_proj/ModelSim/Crossbar_ModelSim/top_level.sv
+L0 4
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/quartus_proj/ModelSim/Crossbar_ModelSim/top_level.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/quartus_proj/ModelSim/Crossbar_ModelSim/top_level.sv|
+!i113 1
+R4
+R5
